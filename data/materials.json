@@ -1,0 +1,66 @@
+[
+    {
+        "id": "elasthane",
+        "name": "Elasthane (Lycra)"
+    },
+    {
+        "id": "ei-acrylique",
+        "name": "Acrylique"
+    },
+    {
+        "id": "ei-jute-kenaf",
+        "name": "Jute"
+    },
+    {
+        "id": "ei-pp",
+        "name": "Polypropylène"
+    },
+    {
+        "id": "ei-pet",
+        "name": "Polyester"
+    },
+    {
+        "id": "ei-pet-r",
+        "name": "Polyester recyclé"
+    },
+    {
+        "id": "ei-pa",
+        "name": "Nylon"
+    },
+    {
+        "id": "ei-lin",
+        "name": "Lin"
+    },
+    {
+        "id": "ei-laine-par-defaut",
+        "name": "Laine par défaut"
+    },
+    {
+        "id": "ei-laine-nouvelle-filiere",
+        "name": "Laine nouvelle filière"
+    },
+    {
+        "id": "ei-coton",
+        "name": "Coton"
+    },
+    {
+        "id": "ei-coton-organic",
+        "name": "Coton biologique"
+    },
+    {
+        "id": "ei-chanvre",
+        "name": "Chanvre"
+    },
+    {
+        "id": "ei-viscose",
+        "name": "Viscose"
+    },
+    {
+        "id": "coton-rdpc",
+        "name": "Coton recyclé (déchets post-consommation)"
+    },
+    {
+        "id": "coton-rdp",
+        "name": "Coton recyclé (déchets de production)"
+    }
+]
